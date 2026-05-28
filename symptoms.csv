@@ -1,0 +1,6 @@
+fever,cough,headache,disease
+1,1,0,Flu
+1,0,1,Viral Fever
+0,1,1,Cold
+1,1,1,Dengue
+0,0,1,Migraine
