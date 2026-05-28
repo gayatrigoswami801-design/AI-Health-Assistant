@@ -120,15 +120,15 @@ Database Features
 
 ⚙️ Technology Stack
 
-Technology| Purpose
-Python| Core programming language
-SQLite| Database management system
-SQL Queries| Data insertion and retrieval
-VS Code| Development environment
-OOP Concepts| Modular architecture
-File Handling| Backup and report storage
-Git & GitHub| Version control and hosting
-Terminal Interface| User interaction system
+Technology    Purpose
+Python   -    Core programming language
+SQLite    -   Database management system
+SQL Queries - Data insertion and retrieval
+VS Code    -   Development environment
+OOP Concepts - Modular architecture
+File Handling - Backup and report storage
+Git & GitHub -  Version control and hosting
+Terminal Interface- User interaction system
 
 ---
 
@@ -160,21 +160,21 @@ AI-Health-Assistant/
 
 Patients Table
 
-Column| Description
-id| Unique patient ID
-name| Patient name
-age| Patient age
-gender| Patient gender
-disease| Predicted disease
+Column  Description
+id -    Unique patient ID
+name  - Patient name
+age -Patient age
+gender -Patient gender
+disease - Predicted disease
 
 ---
 
 History Table
 
-Column| Description
-patient_name| Patient name
-diagnosis| Disease history
-date| Visit date
+Column Description
+patient_name - Patient name
+diagnosis - Disease history
+
 
 ---
 
