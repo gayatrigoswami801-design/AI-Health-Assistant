@@ -161,7 +161,7 @@ AI-Health-Assistant/
 
 # ▶️ How to Run the Project
 
-1️⃣ Clone the repository using `git clone https://github.com/gayatrigoswami801-design/AI-Health-Assistant → 2️⃣ Open the project folder in VS Code → 3️⃣ Install required libraries using `pip install -r requirements.txt` → 4️⃣ Run the project using `python main.py` → 5️⃣ The AI Health Assistant menu will appear in the terminal.
+1️⃣ Clone the repository using https://github.com/gayatrigoswami801-design/AI-Health-Assistant → 2️⃣ Open the project folder in VS Code → 3️⃣ Install required libraries using `pip install -r requirements.txt` → 4️⃣ Run the project using `python main.py` → 5️⃣ The AI Health Assistant menu will appear in the terminal.
 
 📂 Project Output
 ===================================
@@ -180,6 +180,7 @@ AI-Health-Assistant/
     
 
 🗄️ Database Design
+--
 
 Patients Table
 
